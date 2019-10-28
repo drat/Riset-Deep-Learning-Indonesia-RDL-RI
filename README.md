@@ -30,6 +30,7 @@ solusi dan kemudahan bagi siapa saja yang ingin belajar dan berkarya bersama kam
 
 Kami akan menyediakan sarana berbagi bersama seperti Laboratorium A.I dan perangkat keras pendukung (GPU Server (V100), Big Data Clustered Servers, High Speed Internet Access. dll..) dalam waktu dekat.
 
+![logo warung data](logo_WD_1.png)
 
 ## SUKSES UNTUK KITA SEMUA!
 _drat_
