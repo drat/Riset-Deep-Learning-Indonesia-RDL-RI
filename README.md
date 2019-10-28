@@ -1,3 +1,4 @@
+![Riset Deep Learning Indonesia](riset.jog)
 # Riset Deep Learning Indonesia (RDL-RI)
 Apa itu RDL-RI?
 RDL-RI adalah upaya yang dimulai oleh para data scientist di [Warung Data Indonesia](https://www.warungdata.com/) untuk memperoleh dan berbagi pengetahuan tentang teori dan aplikasi Pembelajaran Mendalam tentang Artificial Intelligence (Kecerdasan Buatan) dan fokus kepada Deep Learning.
