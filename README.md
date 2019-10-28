@@ -33,3 +33,16 @@ Kami akan menyediakan sarana berbagi bersama seperti Laboratorium A.I dan perang
 
 ## SUKSES UNTUK KITA SEMUA!
 _drat_
+
+---
+
+# Apa Itu Kecerdasan Buatan dan Machine Learning?
+
+## Bagaimana cara komputer tahu cara mengenali / membentuk wajah? Bagaimana cara kerja pembelajaran mesin? Apa itu jaringan saraf?
+Ini rumit. Berikut video bagus yang membuat prosesnya dapat dimengerti:
+[![How Machines Learn](https://img.youtube.com/vi/R9OHn5ZF4Uo/0.jpg)](https://www.youtube.com/watch?v=R9OHn5ZF4Uo)
+
+Berikut adalah video yang sedikit lebih mendalam yang mencoba menjelaskan fungsi dasar jaringan saraf:
+[![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
+
+tl; dr: data pelatihan + coba-coba
